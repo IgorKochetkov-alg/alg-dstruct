@@ -1,0 +1,8 @@
+.vs
+Debug
+packages
+*.sln
+GoogleTest_1/Debug
+GoogleTest_1/*.vcxproj*
+GoogleTest_1/*.config
+*.txt
